@@ -1,0 +1,5 @@
+author: matejkoo
+description: Makes cobweb drop from spiders
+main: main.java.org.matejko.plugin.Cobweb
+name: Cobweb
+version: 1
